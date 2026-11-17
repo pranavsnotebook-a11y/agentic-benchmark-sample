@@ -1,0 +1,62 @@
+{
+  "user_00": {
+    "sessions": 6,
+    "longest_session_s": 2839,
+    "events": 16
+  },
+  "user_01": {
+    "sessions": 15,
+    "longest_session_s": 3267,
+    "events": 24
+  },
+  "user_02": {
+    "sessions": 10,
+    "longest_session_s": 1788,
+    "events": 16
+  },
+  "user_03": {
+    "sessions": 10,
+    "longest_session_s": 4226,
+    "events": 14
+  },
+  "user_04": {
+    "sessions": 14,
+    "longest_session_s": 3899,
+    "events": 23
+  },
+  "user_05": {
+    "sessions": 12,
+    "longest_session_s": 3855,
+    "events": 22
+  },
+  "user_06": {
+    "sessions": 13,
+    "longest_session_s": 2421,
+    "events": 25
+  },
+  "user_07": {
+    "sessions": 12,
+    "longest_session_s": 1600,
+    "events": 18
+  },
+  "user_08": {
+    "sessions": 3,
+    "longest_session_s": 94,
+    "events": 4
+  },
+  "user_09": {
+    "sessions": 13,
+    "longest_session_s": 3690,
+    "events": 19
+  },
+  "user_10": {
+    "sessions": 9,
+    "longest_session_s": 893,
+    "events": 12
+  },
+  "user_11": {
+    "sessions": 11,
+    "longest_session_s": 6283,
+    "events": 21
+  }
+}
